@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap");
+
+@font-face {
+    font-family: "Godo";
+    font-weight: 700;
+    src: url("fonts/GodoB.otf");
+}
+
+@font-face {
+    font-family: "Godo";
+    font-weight: 400;
+    src: url("fonts/GodoM.otf");
+}
+
+@font-face {
+    font-family: "Kudryashev";
+    font-weight: 400;
+    src: url("fonts/Kudryashev.woff2") format("woff2");
+}
+
+body {
+    font-family: "Noto Sans KR", sans-serif;
+}
